@@ -4,3 +4,4 @@ aiosqlite
 python-dotenv 
 openpyxl 
 psycopg2-binary
+asyncpg
