@@ -3,4 +3,4 @@ sqlalchemy
 aiosqlite 
 python-dotenv 
 openpyxl 
-psycopg2psycopg2-binarypsycopg2-binary
+psycopg2-binary
